@@ -16,7 +16,7 @@
 
 ---
 ## Progress
-- [x] 📣 Initialize RFops **highly!**
+- [x] 📣 Initialize RFtr **highly!**
 - [ ] Docker image
 - [ ] Release
 
