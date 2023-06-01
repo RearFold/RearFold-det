@@ -10,8 +10,8 @@ REQUIREMENTS = [f'{x.name}{x.specifier}' for x in pkg.parse_requirements((PARENT
 setup(
     name = 'rftr',
     version = '0.0.1',
-    description='setup rf trainer install.',
-    url='https://github.com/RearFold/RearFold-tr.git',
+    description='setup rf detection install.',
+    url='https://github.com/RearFold/RearFold-det.git',
     author='kaejong2',
     author_email="kaejong2@gmail.com",
     license='ljj',

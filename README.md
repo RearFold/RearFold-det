@@ -1,5 +1,5 @@
 # RearFold-mlops
-<h1 align="center">RearFold TR</h1>
+<h1 align="center">RearFold Detection</h1>
 
 <p align="center">
   <img src="assets/Logo2.png" alt="text" width="number" height="260px" width="800px"/>
